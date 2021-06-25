@@ -1,0 +1,4851 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- ClipArt by Arvin61r58 (http://openclipart.org/user-detail/Arvin61r58) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 645.00007 630"
+   height="630"
+   width="645.00006">
+  <title
+     id="title7136">Break Time!</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient11372">
+      <stop
+         id="stop11374"
+         offset="0"
+         style="stop-color:#c3c3c3;stop-opacity:1" />
+      <stop
+         id="stop11376"
+         offset="1"
+         style="stop-color:#717171;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11197">
+      <stop
+         stop-color="#a7a7a7"
+         offset="0"
+         id="stop11199" />
+      <stop
+         stop-color="#bababa"
+         offset="0.071429"
+         id="stop11201" />
+      <stop
+         stop-color="#d7d7d7"
+         offset="0.142857"
+         id="stop11203" />
+      <stop
+         stop-color="#f2f2f2"
+         offset="0.214286"
+         id="stop11205" />
+      <stop
+         stop-color="#ffffff"
+         offset="0.285714"
+         id="stop11207" />
+      <stop
+         stop-color="#fbfbfb"
+         offset="0.357143"
+         id="stop11209" />
+      <stop
+         stop-color="#f1f1f1"
+         offset="0.428571"
+         id="stop11211" />
+      <stop
+         stop-color="#e2e2e2"
+         offset="0.5"
+         id="stop11213" />
+      <stop
+         stop-color="#cecfce"
+         offset="0.571429"
+         id="stop11215" />
+      <stop
+         stop-color="#bababa"
+         offset="0.642857"
+         id="stop11217" />
+      <stop
+         stop-color="#a5a5a5"
+         offset="0.714286"
+         id="stop11219" />
+      <stop
+         stop-color="#909090"
+         offset="0.785714"
+         id="stop11221" />
+      <stop
+         stop-color="#7c7c7c"
+         offset="0.857143"
+         id="stop11223" />
+      <stop
+         stop-color="#6c6c6c"
+         offset="0.928571"
+         id="stop11225" />
+      <stop
+         stop-color="#636363"
+         offset="1"
+         id="stop11227" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.96379126,0,0,0.98217823,634.39006,-30.920097)"
+       gradientUnits="userSpaceOnUse"
+       y2="518.86987"
+       x2="-325.63422"
+       y1="518.86987"
+       x1="-468.87424"
+       id="linearGradient11255"
+       xlink:href="#linearGradient11197" />
+    <linearGradient
+       gradientTransform="matrix(0.99832092,-0.05792538,0.05792538,0.99832092,-21.728898,16.596329)"
+       gradientUnits="userSpaceOnUse"
+       y2="140.61136"
+       x2="367.07397"
+       y1="140.61136"
+       x1="182.91046"
+       id="linearGradient11316"
+       xlink:href="#linearGradient11197" />
+    <linearGradient
+       gradientTransform="matrix(0.99832092,-0.05792538,0.05792538,0.99832092,-21.728898,16.596329)"
+       gradientUnits="userSpaceOnUse"
+       y2="220.61681"
+       x2="273.6785"
+       y1="194.1669"
+       x1="273.35983"
+       id="linearGradient11378"
+       xlink:href="#linearGradient11372" />
+    <linearGradient
+       gradientTransform="matrix(0.99832092,-0.05792538,0.05792538,0.99832092,-21.384646,16.576355)"
+       y2="225.07823"
+       x2="371.51126"
+       y1="221.25415"
+       x1="179.98849"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient11382"
+       xlink:href="#linearGradient11197" />
+    <radialGradient
+       r="159.19193"
+       fy="110.30303"
+       fx="130.10101"
+       cy="110.30303"
+       cx="130.10101"
+       gradientTransform="matrix(2.198604,0,0,1.3583454,-96.040643,40.170373)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4062"
+       xlink:href="#linearGradient3819" />
+    <linearGradient
+       id="linearGradient3819">
+      <stop
+         id="stop3845"
+         offset="0"
+         stop-color="#58bde8" />
+      <stop
+         id="stop3843"
+         offset="0.083333"
+         stop-color="#55bce8" />
+      <stop
+         id="stop3841"
+         offset="0.166667"
+         stop-color="#4fb7eb" />
+      <stop
+         id="stop3839"
+         offset="0.25"
+         stop-color="#3fb1f1" />
+      <stop
+         id="stop3837"
+         offset="0.333333"
+         stop-color="#37acf1" />
+      <stop
+         id="stop3835"
+         offset="0.416667"
+         stop-color="#37a0f0" />
+      <stop
+         id="stop3833"
+         offset="0.5"
+         stop-color="#328cea" />
+      <stop
+         id="stop3831"
+         offset="0.583333"
+         stop-color="#3580e4" />
+      <stop
+         id="stop3829"
+         offset="0.666667"
+         stop-color="#3579d7" />
+      <stop
+         id="stop3827"
+         offset="0.75"
+         stop-color="#3072bc" />
+      <stop
+         id="stop3825"
+         offset="0.833333"
+         stop-color="#2e6aa5" />
+      <stop
+         id="stop3823"
+         offset="0.916667"
+         stop-color="#316ea3" />
+      <stop
+         id="stop3821"
+         offset="1"
+         stop-color="#3471a6" />
+    </linearGradient>
+    <radialGradient
+       r="188.48"
+       fy="200"
+       fx="200"
+       cy="200"
+       cx="200"
+       gradientTransform="matrix(1.8569609,0,0,1.8569609,-181.39413,-181.39186)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4064"
+       xlink:href="#linearGradient3869" />
+    <linearGradient
+       id="linearGradient3869">
+      <stop
+         stop-color="#833248"
+         offset="0"
+         id="stop3871" />
+      <stop
+         stop-color="#89273f"
+         offset="0.041667"
+         id="stop3873" />
+      <stop
+         stop-color="#960d31"
+         offset="0.083333"
+         id="stop3875" />
+      <stop
+         stop-color="#960122"
+         offset="0.125"
+         id="stop3877" />
+      <stop
+         stop-color="#970023"
+         offset="0.166667"
+         id="stop3879" />
+      <stop
+         stop-color="#a5001c"
+         offset="0.208333"
+         id="stop3881" />
+      <stop
+         stop-color="#bb0023"
+         offset="0.25"
+         id="stop3883" />
+      <stop
+         stop-color="#d5001f"
+         offset="0.291667"
+         id="stop3885" />
+      <stop
+         stop-color="#e60011"
+         offset="0.333333"
+         id="stop3887" />
+      <stop
+         stop-color="#df0007"
+         offset="0.375"
+         id="stop3889" />
+      <stop
+         stop-color="#d60000"
+         offset="0.416667"
+         id="stop3891" />
+      <stop
+         stop-color="#da0000"
+         offset="0.458333"
+         id="stop3893" />
+      <stop
+         stop-color="#e80000"
+         offset="0.5"
+         id="stop3895" />
+      <stop
+         stop-color="#ea0000"
+         offset="0.541667"
+         id="stop3897" />
+      <stop
+         stop-color="#d80000"
+         offset="0.583333"
+         id="stop3899" />
+      <stop
+         stop-color="#ec0000"
+         offset="0.625"
+         id="stop3901" />
+      <stop
+         stop-color="#ea0000"
+         offset="0.666667"
+         id="stop3903" />
+      <stop
+         stop-color="#ee0000"
+         offset="0.708333"
+         id="stop3905" />
+      <stop
+         stop-color="#fe0000"
+         offset="0.75"
+         id="stop3907" />
+      <stop
+         stop-color="#ff0300"
+         offset="0.791667"
+         id="stop3909" />
+      <stop
+         stop-color="#f70c11"
+         offset="0.833333"
+         id="stop3911" />
+      <stop
+         stop-color="#ef181d"
+         offset="0.875"
+         id="stop3913" />
+      <stop
+         stop-color="#da362e"
+         offset="0.916667"
+         id="stop3915" />
+      <stop
+         stop-color="#ce3b32"
+         offset="0.958333"
+         id="stop3917" />
+      <stop
+         stop-color="#be3a2a"
+         offset="1"
+         id="stop3919" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter6498">
+      <feGaussianBlur
+         stdDeviation="0.01"
+         result="result8"
+         id="feGaussianBlur6500" />
+      <feTurbulence
+         baseFrequency="0.025000000000000001 0.027"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result7"
+         seed="3"
+         id="feTurbulence6502" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -2.4 "
+         result="result5"
+         id="feColorMatrix6504" />
+      <feComposite
+         in2="result7"
+         operator="in"
+         in="result8"
+         result="result6"
+         id="feComposite6506" />
+      <feDisplacementMap
+         in2="result6"
+         result="result4"
+         scale="40"
+         yChannelSelector="A"
+         xChannelSelector="R"
+         in="result5"
+         id="feDisplacementMap6508" />
+      <feFlood
+         flood-color="rgb(255,255,255)"
+         flood-opacity="1"
+         result="result10"
+         id="feFlood6510" />
+      <feComposite
+         in2="result4"
+         operator="in"
+         result="result2"
+         id="feComposite6512" />
+      <feComposite
+         in2="result8"
+         operator="in"
+         in="result2"
+         result="result9"
+         id="feComposite6514" />
+      <feBlend
+         mode="normal"
+         in2="result8"
+         result="result11"
+         id="feBlend6516" />
+      <feBlend
+         mode="darken"
+         in2="result11"
+         id="feBlend6518" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Break Time!</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Arvin61r58</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Openclipart.org</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>https://openclipart.org/</dc:identifier>
+        <dc:source>https://openclipart.org/user-detail/Arvin61r58</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>break</rdf:li>
+            <rdf:li>shift whistle</rdf:li>
+            <rdf:li>break time</rdf:li>
+            <rdf:li />
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>shift whistle with the word Break over a oval star burst</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path5274"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5278"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5282"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5286"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5290"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5294"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5298"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5302"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5306"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5310"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5314"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5318"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5322"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5326"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5330"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5334"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5338"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5342"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5346"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5350"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5354"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5358"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5362"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5366"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5370"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5374"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5378"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5382"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5386"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5390"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5394"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5398"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5402"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5406"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5410"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5414"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5418"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5422"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5426"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5430"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5434"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5438"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5442"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5446"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5450"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5454"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5458"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5462"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5466"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5470"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5474"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5478"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5482"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5486"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5490"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5494"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5498"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5502"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5506"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5510"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5514"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5518"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5522"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5526"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5530"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5534"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5538"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5542"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5546"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5550"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5554"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5558"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5562"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5566"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5570"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5574"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5578"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5582"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5586"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5590"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5594"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5598"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5602"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5606"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5610"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5614"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5618"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5622"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5626"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5630"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5634"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5638"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5642"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5646"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5650"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5654"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5658"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5662"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5666"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5670"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5674"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5678"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5682"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5686"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5690"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5694"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5698"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5702"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5706"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5710"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5714"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5718"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5722"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5726"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5730"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5734"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5738"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5742"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5746"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5750"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5754"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5758"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5762"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5766"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5770"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5774"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5778"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5782"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5786"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5790"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5794"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5798"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5802"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5806"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5810"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5814"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5818"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5822"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5826"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5830"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5834"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5838"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5842"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5846"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5850"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5854"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5858"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5862"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5866"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5870"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5874"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5878"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5882"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5886"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5890"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5894"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5898"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5902"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5906"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5910"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5914"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5918"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5922"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5926"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5930"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5934"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5938"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5942"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5946"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5950"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4501"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4505"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4509"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4513"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4517"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4521"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4525"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4529"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4533"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4537"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4541"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4545"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4549"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4553"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4557"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4561"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4565"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4569"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4573"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4577"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4581"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4585"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4589"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4593"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4597"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4601"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4605"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4609"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4613"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4617"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4621"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4625"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4629"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4633"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4637"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4641"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4645"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4649"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4653"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4657"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4661"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4665"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4669"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4673"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4677"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4681"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4685"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4689"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4693"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4697"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4701"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4705"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4709"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4713"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4717"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4721"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4725"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4729"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4733"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4737"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4741"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4745"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4749"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4753"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4757"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4761"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4765"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4769"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4773"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4777"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4781"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4785"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4789"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4793"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4797"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4801"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4805"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4809"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4813"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4817"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4821"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4825"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4829"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4833"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4837"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4841"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4845"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4849"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4853"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4857"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4861"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4865"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4869"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4873"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4877"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4881"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4885"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4889"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4893"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4897"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4901"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4905"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4909"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4913"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4917"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4921"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4925"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4929"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4933"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4937"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4941"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4945"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4949"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4953"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4957"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4961"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4965"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4969"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4973"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4977"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4981"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4985"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4989"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4993"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path4997"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5001"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5005"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5009"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5013"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5017"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5021"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5025"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5029"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5033"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5037"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5041"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5045"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5049"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5053"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5057"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5061"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5065"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5069"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5073"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5077"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5081"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5085"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5089"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5093"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5097"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5101"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5105"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5109"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5113"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5117"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5121"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5125"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5129"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5133"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5137"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5141"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5145"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5149"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5153"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5157"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5161"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5165"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5169"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5173"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5177"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5181"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5185"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5189"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5193"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5197"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5201"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5205"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5209"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5213"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5217"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5221"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5225"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5229"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5233"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5237"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5241"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5245"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5249"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5253"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5257"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5261"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5265"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5269"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5273"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5277"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5281"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5285"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5289"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5293"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5297"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5301"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5305"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5309"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5313"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5317"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5321"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5325"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5329"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5333"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5337"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5341"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5345"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5349"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5353"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5357"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5361"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5365"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5369"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5373"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5377"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5381"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5385"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5389"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5393"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5397"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5401"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5405"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5409"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5413"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5417"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5421"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5425"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5429"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5433"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5437"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5441"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5445"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5449"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5453"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5457"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5461"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5465"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5469"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5473"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5477"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5481"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5485"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5489"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5493"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5497"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5501"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5505"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5509"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5513"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5517"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5521"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5525"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5529"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5533"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5537"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5541"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5545"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5549"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5553"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5557"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5561"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5565"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5569"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5573"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5577"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5581"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5585"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5589"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5593"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5597"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5601"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5605"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5609"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5613"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5617"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5621"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5625"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5629"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5633"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5637"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5641"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5645"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5649"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5653"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5657"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5661"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5665"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5669"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5673"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5677"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5681"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5685"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5689"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5693"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5697"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5701"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5705"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5709"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5713"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5717"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5721"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5725"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5729"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5733"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5737"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5741"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5745"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5749"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5753"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5757"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5761"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5765"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5769"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5773"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5777"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5781"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5785"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5789"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5793"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5797"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5801"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5805"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5809"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5813"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5817"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5821"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5825"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5829"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5833"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5837"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5841"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5845"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5849"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5853"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5857"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5861"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5865"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5869"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5873"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5877"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5881"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5885"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5889"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5893"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5897"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5901"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5905"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5909"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5913"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5917"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5921"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5925"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5929"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5933"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5937"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5941"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5945"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5949"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5953"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5957"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5961"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5965"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5969"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5973"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5977"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5981"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5985"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5989"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5993"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5997"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6001"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6005"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6009"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6013"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6017"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6021"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6025"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6029"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6033"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6037"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6041"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6045"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6049"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6053"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6057"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6061"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6065"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6069"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6073"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6077"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6081"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6085"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6089"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6093"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6097"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6101"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6105"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6109"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6113"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6117"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6121"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6125"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6129"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6133"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6137"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6141"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6145"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6149"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6153"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6157"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6161"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6165"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6169"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6173"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6177"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6181"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6185"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6189"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6193"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6197"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6201"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6205"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6209"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6213"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6217"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6221"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6225"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6229"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6233"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6237"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6241"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6245"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6249"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6253"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6257"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6261"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6265"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6269"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6273"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6277"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6281"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6285"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6289"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6293"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6297"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6301"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6305"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6309"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6313"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6317"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6321"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6325"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6329"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6333"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6337"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6341"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6345"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6349"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6353"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6357"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6361"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6365"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6369"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6373"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6377"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6381"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6385"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6389"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6393"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6397"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6401"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6405"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6409"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6413"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6417"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6421"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6425"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6429"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6433"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6437"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6441"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6445"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6449"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6453"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6457"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6461"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6465"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6469"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6473"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6477"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6481"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6485"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6489"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6493"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6497"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6501"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6505"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6509"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6513"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6517"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6521"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6525"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6529"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6533"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6537"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6541"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6545"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6549"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6553"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6557"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6561"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6565"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6569"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6573"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6577"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6581"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6585"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6589"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6593"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6597"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6601"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6605"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6609"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6613"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6617"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6621"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6625"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6629"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6633"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6637"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6641"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6645"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6649"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6653"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6657"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6661"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6665"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6669"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6673"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6677"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6681"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6685"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6689"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6693"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6697"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6701"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6705"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6709"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6713"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6717"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6721"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6725"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6729"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6733"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6737"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6741"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6745"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6749"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6753"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6757"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6761"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6765"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6769"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6773"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6777"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6781"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6785"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6789"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6793"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6797"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6801"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6805"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6809"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6813"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6817"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6821"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6825"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6829"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6833"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6837"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6841"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6845"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6849"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6853"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6857"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6861"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6865"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6869"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6873"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6877"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6881"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6885"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6889"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6893"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6897"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6901"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6905"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6909"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6913"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6917"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6921"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6925"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6929"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6933"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6937"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6941"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6945"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6949"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6953"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6957"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6961"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6965"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6969"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6973"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6977"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6981"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6985"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6989"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6993"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path6997"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7001"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7005"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7009"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7013"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7017"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7021"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7025"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7029"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7033"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7037"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7041"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7045"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7049"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7053"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7057"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7061"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7065"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7069"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7073"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7077"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7081"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7085"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7089"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7093"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7097"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7101"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7105"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7109"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7113"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7117"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7121"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7125"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7129"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7133"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7137"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7141"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7145"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7149"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7153"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7157"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7161"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7165"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7169"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7173"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7177"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7181"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7185"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7189"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7193"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7197"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7201"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7205"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7209"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7213"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7217"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7221"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7225"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7229"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7233"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7237"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7241"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7245"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7249"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7253"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7257"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7261"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7265"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7269"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7273"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7277"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7281"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7285"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7289"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7293"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7297"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7301"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7305"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7309"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7313"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7317"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7321"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7325"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7329"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7333"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7337"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7341"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7345"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7349"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7353"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7357"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7361"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7365"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7369"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7373"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7377"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7381"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7385"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7389"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7393"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7397"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7401"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7405"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7409"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7413"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7417"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7421"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7425"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7429"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7433"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7437"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7441"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7445"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7449"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7453"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7457"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7461"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7465"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7469"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7473"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7477"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7481"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7485"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7489"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7493"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7497"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7501"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7505"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7509"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7513"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7517"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7521"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7525"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7529"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7533"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7537"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7541"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7545"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7549"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7553"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7557"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7561"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7565"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7569"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7573"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7577"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7581"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7585"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7589"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7593"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7597"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7601"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7605"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7609"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7613"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7617"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7621"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7625"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7629"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7633"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7637"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7641"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7645"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7649"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7653"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7657"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7661"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7665"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7669"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7673"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7677"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7681"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7685"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7689"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7693"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7697"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7701"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7705"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7709"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7713"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7717"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7721"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7725"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7729"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7733"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7737"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7741"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7745"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7749"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7753"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7757"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7761"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7765"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7769"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7773"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7777"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7781"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7785"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7789"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7793"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7797"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7801"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7805"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7809"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7813"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7817"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7821"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7825"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7829"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7833"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7837"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7841"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7845"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7849"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7853"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7857"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7861"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7865"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7869"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7873"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7877"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7881"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7885"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7889"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7893"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7897"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7901"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7905"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7909"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7913"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7917"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7921"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7925"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7929"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7933"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7937"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7941"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7945"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7949"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7953"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7957"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7961"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7965"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7969"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7973"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7977"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7981"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7985"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7989"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7993"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path7997"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8001"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8005"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8009"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8013"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8017"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8021"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8025"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8029"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8033"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8037"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8041"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8045"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8049"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8053"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8057"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8061"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8065"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8069"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8073"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8077"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8081"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8085"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8089"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8093"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8097"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path8101"
+     d=""
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <g
+     id="g6549"
+     transform="matrix(0.99286489,0,0,1,-37.770378,-38.149619)">
+    <g
+       id="g6526">
+      <g
+         id="g7468"
+         transform="matrix(0.65043681,0,0,0.6582242,84.962182,14.122918)">
+        <rect
+           transform="matrix(0.99832092,-0.05792538,0.05792538,0.99832092,0,0)"
+           y="235.12241"
+           x="182.49316"
+           height="487.1604"
+           width="138.05347"
+           id="rect11089"
+           style="opacity:1;fill:url(#linearGradient11255);fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path4158"
+           d="m 179.22375,246.77174 c -4.197,-1.36699 -7.34606,-3.72848 -11.69799,-8.7724 l -5.95498,-6.90188 5.16622,-11.6915 c 9.35836,-21.17858 37.65308,-75.52137 42.41723,-81.46644 1.15754,-1.44447 2.74271,-4.07196 3.52261,-5.83885 0.77989,-1.76689 5.86103,-10.08891 11.29143,-18.49338 5.43039,-8.40448 12.51723,-20.084598 15.74853,-25.95583 3.23129,-5.871232 8.32833,-14.654228 11.32674,-19.517768 l 5.45166,-8.842798 2.41056,2.752149 c 3.4853,3.979204 10.58689,13.403847 17.90705,23.76479 3.5054,4.96153 11.53421,15.201147 17.8418,22.754717 6.30759,7.55357 12.44122,15.36764 13.6303,17.36462 1.18909,1.99697 3.24385,4.69498 4.56619,5.99557 5.39893,5.31018 39.78313,55.99722 51.56464,76.01334 l 6.48375,11.01554 -5.11758,7.53044 c -3.97204,5.84475 -6.46913,8.12807 -11.15536,10.2003 -5.90105,2.60941 -6.12717,2.62104 -9.98703,0.51337 -10.51823,-5.74346 -20.00655,-9.95545 -25.77374,-11.44134 -25.85679,-6.66189 -79.75884,-3.54135 -104.82448,6.06859 -6.13957,2.35386 -15.86673,8.11351 -23.4713,13.89787 -4.66988,3.55208 -3.88886,3.47975 -11.34626,1.05085 z m 14.68681,-9.1544 c 11.17133,-7.21953 18.03569,-9.93128 35.30888,-13.94867 29.35115,-6.82647 74.63898,-7.06805 95.7562,-0.5108 3.50645,1.08882 10.05627,3.7934 14.55517,6.01017 10.53709,5.19204 13.30944,4.97239 19.08247,-1.51184 3.91152,-4.39337 4.45048,-5.70417 3.56004,-8.65825 -1.5635,-5.18685 -2.48778,-5.87241 -16.98515,-12.59819 -13.4093,-6.22101 -28.02232,-10.15964 -36.1494,-9.7433 -2.40315,0.12321 -8.81969,-0.36301 -14.25898,-1.08026 -6.2757,-0.82757 -17.33361,-0.8722 -30.26042,-0.12215 -12.92682,0.75005 -23.90536,2.0733 -30.04323,3.62113 -5.31982,1.34153 -11.63708,2.56652 -14.03835,2.72216 -8.12069,0.52638 -22.18013,6.12868 -34.77994,13.85881 -13.6222,8.35737 -14.461,9.14523 -15.41409,14.47809 -0.54282,3.03724 0.14413,4.27691 4.53751,8.18841 6.48423,5.77303 9.26339,5.67057 19.12929,-0.70531 z m -12.55325,-24.76693 c 14.32867,-10.29725 29.72703,-14.89116 67.95536,-20.27361 25.79888,-3.63241 69.46853,-1.29188 86.67915,4.6457 2.81089,0.96974 8.41632,3.49791 12.45652,5.61817 4.0402,2.12025 7.86499,3.62546 8.49952,3.34488 0.63455,-0.28057 -2.12269,-5.39103 -6.12718,-11.35659 -4.00449,-5.96555 -9.02031,-13.43153 -11.14626,-16.59102 -11.9271,-17.72567 -30.02344,-42.04401 -47.84021,-64.28897 -8.60649,-10.74556 -18.91901,-24.233354 -22.91669,-29.972875 -3.99767,-5.73952 -8.23385,-11.385398 -9.41372,-12.546393 -2.05922,-2.026271 -2.22804,-2.016476 -4.21124,0.244348 -1.13632,1.295387 -4.76193,7.397428 -8.0569,13.560088 -3.29497,6.16266 -11.96846,20.752082 -19.2744,32.420922 -18.74094,29.93246 -34.08463,56.96917 -45.79796,80.69936 -2.79956,5.67169 -6.17603,12.20638 -7.50324,14.52152 -3.12628,5.45333 -0.91485,5.4449 6.69725,-0.0255 z"
+           style="fill:#000000" />
+        <path
+           id="path11049"
+           d="m 197.29408,238.74715 27.28286,470.20929"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.13515759;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path11057"
+           d="m 348.09867,435.03184 15.42608,265.8624"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.13515806;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path11059"
+           d="M 343.2061,350.71035 336.2419,230.68508"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.13515806;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path11282"
+           d="m 336.41004,419.9568 -10.53365,-9.01135 0.42975,-6.2035 c 0.44867,-6.47689 14.70736,-42.22229 17.26738,-43.28798 1.0207,-0.42488 2.02594,9.40319 3.42098,33.44615 1.08656,18.72632 1.51962,34.05238 0.96238,34.05794 -0.55726,0.005 -5.75333,-4.04501 -11.54684,-9.00126 z"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path11304"
+           d="m 173.09626,216.63945 c -0.19817,-3.41546 28.19495,-55.8192 46.3728,-85.58791 7.29494,-11.94648 18.29091,-30.32093 24.43548,-40.832113 6.14458,-10.511187 11.70842,-19.487416 12.36409,-19.947174 1.69452,-1.1882 3.17155,0.536954 25.78291,30.114167 49.11434,64.24493 76.31235,102.54022 74.8055,105.32747 -0.35545,0.65746 -5.14503,-0.92327 -10.64353,-3.51274 -18.04207,-8.49675 -37.47982,-11.23425 -73.17586,-10.30567 -38.75051,1.00804 -70.36204,7.97931 -88.91449,19.60827 -9.80342,6.14494 -10.93768,6.67322 -11.0269,5.1357 z"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path11306"
+           d="m 174.90702,238.52865 c -5.49263,-4.89018 -6.19206,-8.12204 -2.80676,-12.96904 2.89578,-4.14611 20.06103,-14.68912 31.12953,-19.11997 28.49368,-11.40635 97.92071,-15.16758 124.88663,-6.76577 21.39704,6.66671 34.05442,14.16177 34.41515,20.37893 0.25711,4.43114 -7.13605,12.59917 -11.6405,12.86053 -1.55172,0.09 -8.58212,-2.25436 -15.62311,-5.20977 -7.04102,-2.95541 -17.02392,-6.00805 -22.18423,-6.78365 -15.44453,-2.32134 -42.13356,-2.68532 -58.68386,-0.80031 -27.51643,3.13399 -44.89232,8.21792 -60.35562,17.65914 -9.83172,6.00284 -13.09363,6.13066 -19.13723,0.74991 z"
+           style="opacity:1;fill:url(#linearGradient11378);fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           style="opacity:1;fill:url(#linearGradient11316);fill-opacity:1;stroke:#000000;stroke-width:0.38344738;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 173.09626,216.63945 c -0.19817,-3.41546 28.19495,-55.8192 46.3728,-85.58791 7.29494,-11.94648 18.29091,-30.32093 24.43548,-40.832113 6.14458,-10.511187 11.70842,-19.487416 12.36409,-19.947174 1.69452,-1.1882 3.17155,0.536954 25.78291,30.114167 49.11434,64.24493 76.31235,102.54022 74.8055,105.32747 -0.35545,0.65746 -5.14503,-0.92327 -10.64353,-3.51274 -18.04207,-8.49675 -37.47982,-11.23425 -73.17586,-10.30567 -38.75051,1.00804 -70.36204,7.97931 -88.91449,19.60827 -9.80342,6.14494 -10.93768,6.67322 -11.0269,5.1357 z"
+           id="path11308" />
+        <path
+           style="opacity:0.5;fill:url(#linearGradient11382);fill-opacity:1;stroke:#000000;stroke-width:0.38344738;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 175.25126,238.50867 c -5.49263,-4.89018 -6.19206,-8.12204 -2.80676,-12.96904 2.89578,-4.14612 20.06103,-14.68912 31.12953,-19.11998 28.49368,-11.40635 97.92071,-15.16757 124.88663,-6.76576 21.39704,6.66671 34.05442,14.16177 34.41515,20.37892 0.25711,4.43115 -7.13605,12.59918 -11.6405,12.86054 -1.55172,0.09 -8.58212,-2.25437 -15.62311,-5.20978 -7.04102,-2.9554 -17.02392,-6.00805 -22.18423,-6.78365 -15.44453,-2.32133 -42.13356,-2.68531 -58.68386,-0.8003 -27.51643,3.13399 -44.89232,8.21792 -60.35562,17.65914 -9.83172,6.00283 -13.09362,6.13066 -19.13723,0.74991 z"
+           id="path11380" />
+        <g
+           transform="matrix(0.99832092,-0.05792538,0.05792538,0.99832092,-21.728898,16.596329)"
+           id="g11273">
+          <path
+             style="fill:#000000"
+             d="m 296.5334,438.26999 c -11.68059,-3.62015 -28.8728,-16.66946 -28.47981,-21.61689 0.24003,-3.02177 9.1365,-16.98826 16.00742,-25.12989 6.58644,-7.80455 19.55369,-18.84407 29.67282,-25.26162 4.53663,-2.87712 15.38578,-6.89556 29.45778,-10.91092 3.2157,-0.91758 3.61155,-0.84885 3.75268,0.65154 0.22847,2.42897 -10.61559,26.37429 -14.52374,32.07063 -3.73467,5.44346 -8.21538,16.7393 -8.60985,21.70536 -0.21592,2.71824 0.50235,4.02139 4.1676,7.56123 2.43567,2.35233 5.70799,5.22973 7.27182,6.39424 4.35953,3.24631 12.70127,13.42276 11.69362,14.26554 -0.49215,0.41163 -3.64983,1.46525 -7.01706,2.34138 -8.16538,2.12456 -33.80483,0.90113 -43.39328,-2.0706 z m 40.07038,-0.69551 c 1.94016,-0.48896 3.71211,-1.31739 3.93769,-1.84094 0.68818,-1.59727 -3.11515,-6.332 -8.73635,-10.87584 -2.9349,-2.37238 -6.95637,-5.93872 -8.9366,-7.92518 l -3.60042,-3.61174 3.58264,-10.93909 c 2.14982,-6.56412 5.08133,-13.18312 7.32992,-16.55001 2.06099,-3.08601 4.7308,-7.97008 5.93293,-10.85351 1.20213,-2.88342 2.54992,-5.65679 2.9951,-6.16305 1.75,-1.9901 2.27922,-6.37073 0.85073,-7.04202 -3.00834,-1.41374 -18.94318,3.48698 -26.03801,8.00792 -3.4797,2.21731 -6.35798,4.42496 -6.39618,4.90587 -0.0382,0.48091 -2.14881,2.04965 -4.69025,3.48608 -4.33946,2.45268 -9.41554,7.29124 -15.86045,15.11829 -1.52765,1.85525 -4.32583,4.87658 -6.21817,6.71408 -3.32144,3.22516 -9.40992,13.10597 -9.60735,15.59146 -0.17461,2.19819 8.94598,10.991 14.63387,14.10797 10.37891,5.68764 18.67473,7.71792 33.78061,8.2673 7.43201,0.27029 15.10015,0.0914 17.04029,-0.39759 z"
+             id="path4190" />
+          <path
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 298.94401,434.62696 c -8.78087,-2.67101 -17.44664,-7.80566 -22.74445,-13.47654 -4.65421,-4.98196 -4.81754,-5.84457 -2.10905,-11.1384 4.95538,-9.68545 31.56635,-35.06747 42.58001,-40.61359 13.06946,-6.58135 23.96469,-9.1553 23.96469,-5.66155 0,1.38264 -3.66321,9.19357 -8.14046,17.35763 -4.47726,8.16406 -9.33686,18.90403 -10.79912,23.8666 l -2.65866,9.02285 10.79912,9.92815 c 5.93951,5.46048 10.79912,10.54324 10.79912,11.29503 0,1.87659 -35.22622,1.38638 -41.6912,-0.58018 z"
+             id="path11271" />
+          <path
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.54330707;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 296.94566,431.40193 c -8.84561,-3.20841 -20.66269,-12.43025 -20.39068,-15.91253 0.41152,-5.26855 16.71358,-24.59582 28.53103,-33.82557 7.95465,-6.21283 18.40849,-11.23076 25.03147,-12.01535 2.78855,-0.33033 3.03461,-0.15953 2.86675,1.98974 -0.17543,2.24588 -6.09971,15.16035 -9.52701,20.76808 -1.54524,2.52834 -7.49099,18.62367 -7.66119,20.7391 -0.0443,0.55024 3.45961,4.20966 7.78642,8.13201 11.24905,10.19752 11.72991,12.3579 2.91849,13.1115 -7.26322,0.62118 -24.37568,-1.10829 -29.55528,-2.98698 z"
+             id="path4192" />
+        </g>
+        <path
+           id="path7462"
+           d="m 272.7814,416.27845 5.7446,-1.04447"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.30068445;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.30068445;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 272.7814,416.27845 5.7446,-1.04447"
+           id="path7464" />
+        <path
+           id="path7466"
+           d="m 315.60477,411.40424 5.7446,-1.04447"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.30068445;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         id="g6522">
+        <path
+           transform="matrix(0.95588286,0,0,0.96774195,0.53089447,-165.73532)"
+           id="path3379"
+           d="m 623.92188,379.46094 c -2.88056,-0.0278 -5.79382,0.27847 -8.54883,0.79101 -2.28024,0.42422 -4.44701,1.12103 -6.41016,1.96094 -11.22141,4.80098 -21.90333,9.98161 -29.97851,17.29297 -1.34893,1.22132 -2.95893,2.34175 -3.57813,2.49023 -0.69382,0.16639 -2.69634,-0.62683 -5.2168,-2.0664 -7.18719,-4.105 -14.55626,-5.57115 -26.08398,-5.18946 -10.50335,0.34778 -18.10053,2.53952 -27.78711,8.01563 -2.63648,1.49048 -5.23348,2.70898 -5.77148,2.70898 -0.53801,0 -3.64346,-1.39258 -6.9004,-3.0957 -9.31408,-4.87044 -19.65,-8.26107 -30.375,-10.04297 a 3.0538677,3.4011651 0 0 0 -2.58593,-2.08008 c -3.4957,-0.3679 -6.90208,-0.60332 -10.23438,-0.71679 -1.45788,-0.0497 -2.90193,-0.0765 -4.33203,-0.0801 -16.54182,-0.0417 -31.29557,2.94988 -45.91016,7.70703 a 8.4266916,44.646974 67.352699 0 0 -41.48828,9.98242 8.4266916,44.646974 67.352699 0 0 -38.79492,22.91992 c -4.00101,1.52699 -8.08286,3.04696 -12.35351,4.54493 a 3.0538677,3.4011651 0 1 0 1.83398,6.48632 c 6.54087,-2.29424 12.71572,-4.62986 18.63281,-6.9707 a 8.4266916,44.646974 67.352699 0 0 24.56446,-6.51562 7.9926161,24.68914 67.21729 0 0 7.0996,-1.85938 7.9926161,24.68914 67.21729 0 0 18.08985,-8.87695 8.4266916,44.646974 67.352699 0 0 3.20117,-1.63867 c -2.32227,3.74197 -4.82386,7.43437 -8.93164,10.32031 -14.19273,9.76958 -25.99698,-1.68042 -33.11523,17.32031 -1.20279,0.20222 -2.41884,0.43109 -3.63672,0.66016 a 16.367363,6.5469451 0 0 0 -1.59571,-0.0332 16.367363,6.5469451 0 0 0 -15.08398,4.00586 c -6.37025,1.8538 -12.91947,4.15173 -19.6582,7.05078 a 3.0538677,3.4011651 0 0 0 -0.64844,6.02539 3.0538677,3.4011651 0 0 0 2.39258,3.94336 c 5.05683,1.22698 10.23555,2.27444 15.47656,3.19922 a 16.367363,6.5469451 0 0 0 16.33008,6.12891 16.367363,6.5469451 0 0 0 12.33398,-2.24805 c 0.61256,0.0629 1.22582,0.13046 1.83789,0.19141 3.77363,2.05784 7.55083,3.03208 14.70117,3.79492 4.64665,0.49572 5.12647,1.25714 3.15625,5.00781 -1.2222,2.32664 -1.64257,4.27646 -1.64257,7.62891 0,0.20466 0.009,0.40643 0.0156,0.60937 a 24.571821,7.0750087 21.859477 0 0 -2.82617,-1.41796 24.571821,7.0750087 21.859477 0 0 -29.03906,-5.75391 24.571821,7.0750087 21.859477 0 0 -0.041,0.0312 c -8.451,-3.93405 -16.44654,-7.85484 -23.69726,-11.46875 a 3.0538677,3.4011651 0 0 0 -1.17969,-0.31445 3.0538677,3.4011651 0 0 0 -1.31446,6.52343 c 9.75041,4.8598 20.83356,10.30071 32.69141,15.60352 a 24.571821,7.0750087 21.859477 0 0 8.06055,4.47461 24.571821,7.0750087 21.859477 0 0 16.61133,5.7539 c 3.70208,1.40114 7.43442,2.75648 11.19531,4.03321 1.54979,1.25363 3.2729,2.51457 5.19726,3.79492 6.85986,4.56413 12.33621,6.82209 19.59571,8.08008 7.90587,1.37 14.63704,1.14745 22.61133,-0.92188 7.35068,0.71511 14.58052,0.84923 21.57812,0.25586 0.55152,0.72058 0.77815,1.01277 1.36133,1.77735 5.54682,7.27228 16.05346,12.83633 27.50391,14.56836 2.4331,0.36803 8.35665,0.68743 13.16406,0.70898 12.80032,0.0575 21.4651,-1.51757 31.60742,-5.74414 5.25953,-2.19177 15.63268,-8.76725 18.57617,-11.77539 4.22564,-4.31847 5.6307,-4.41456 11.88672,-0.82227 1.703,0.97789 5.88008,2.93832 9.2832,4.35938 12.16968,5.08174 25.49555,6.4784 33.58008,3.51758 3.78056,-1.38457 11.2998,-6.2219 14.95508,-9.61914 5.68339,-5.28221 9.97295,-7.06425 20.79101,-8.64063 17.01259,-2.47899 27.31867,-9.13323 30.78321,-19.87695 2.28124,-7.07432 1.13511,-21.70686 -2.2793,-29.07422 -2.16213,-4.66529 -5.63104,-8.53729 -10.5957,-11.82617 -2.64335,-1.75111 -4.80664,-3.53263 -4.80664,-3.96094 0,-0.4283 1.8769,-2.31247 4.16992,-4.18555 4.94896,-4.04269 11.06795,-11.62642 12.80469,-15.86914 2.84614,-6.95292 2.02816,-15.34898 -2.08985,-21.4707 -4.64772,-6.90913 -14.2983,-13.71407 -25.0664,-17.91406 -3.76207,-1.46735 -8.41997,-1.97185 -12.84375,-2.16602 -0.40964,-0.018 -0.82092,-0.0293 -1.23242,-0.0332 z m -293.30079,74.5 a 16.367363,6.5469451 0 0 0 13.09375,2.6289 16.367363,6.5469451 0 0 0 3.03321,-0.11914 c 0.10949,1.64611 0.3618,3.18205 0.77734,4.60157 a 16.367363,6.5469451 0 0 0 -5.00195,-0.31641 16.367363,6.5469451 0 0 0 -9.46875,1.21875 c -5.71569,-0.89088 -11.35726,-1.9164 -16.85352,-3.13477 4.91187,-1.92536 9.7133,-3.52357 14.41992,-4.8789 z"
+           style="fill:#e3e3e3;stroke:#b2b2b2;stroke-width:2.00717497;filter:url(#filter6498)" />
+        <path
+           style="opacity:0.6;fill:none;stroke:#c3c3c3;stroke-width:1.93048918"
+           d="m 596.93505,201.48494 c -2.75347,-0.0269 -5.53821,0.26949 -8.17168,0.76549 -2.17964,0.41054 -4.25082,1.08487 -6.12736,1.89769 -10.72635,4.64611 -20.93702,9.65962 -28.65594,16.73513 -1.28942,1.18192 -2.82839,2.26621 -3.42028,2.4099 -0.66321,0.16102 -2.57738,-0.60661 -4.98665,-1.99974 -6.87011,-3.97258 -13.91407,-5.39144 -24.93322,-5.02206 -10.03998,0.33656 -17.30199,2.4576 -26.56123,7.75706 -2.52016,1.4424 -5.00259,2.62159 -5.51686,2.62159 -0.51427,0 -3.48272,-1.34765 -6.59597,-2.99583 -8.90317,-4.71333 -18.7831,-7.99459 -29.03494,-9.71901 a 2.9191398,3.2914501 0 0 0 -2.47185,-2.01298 c -3.34148,-0.35603 -6.59758,-0.58386 -9.78287,-0.69367 -1.39356,-0.0481 -2.7739,-0.074 -4.14091,-0.0775 -15.81204,-0.0404 -29.9149,2.85472 -43.88473,7.45841 a 8.1397991,42.756257 67.081674 0 0 -39.65794,9.66041 8.1397991,42.756257 67.081674 0 0 -37.0834,22.18057 c -3.8245,1.47773 -7.72627,2.94867 -11.80851,4.39832 a 2.9191398,3.2914501 0 1 0 1.75307,6.27708 c 6.25231,-2.22023 12.15474,-4.48051 17.81079,-6.74584 a 8.1397991,42.756257 67.081674 0 0 23.48074,-6.30544 7.7203158,23.644171 66.903774 0 0 6.78639,-1.7994 7.7203158,23.644171 66.903774 0 0 17.29178,-8.59059 8.1397991,42.756257 67.081674 0 0 3.05994,-1.58581 c -2.21982,3.62126 -4.61105,7.19455 -8.5376,9.98739 -13.56659,9.45444 -24.85007,-1.62621 -31.65428,16.76159 -1.14973,0.1957 -2.31213,0.41719 -3.47628,0.63887 a 15.645282,6.3357534 0 0 0 -1.52531,-0.0321 15.645282,6.3357534 0 0 0 -14.41852,3.87664 c -6.08921,1.794 -12.3495,4.0178 -18.79094,6.82333 a 2.9191398,3.2914501 0 0 0 -0.61983,5.83103 2.9191398,3.2914501 0 0 0 2.28703,3.81615 c 4.83373,1.1874 9.78398,2.20107 14.79377,3.09602 a 15.645282,6.3357534 0 0 0 15.60965,5.93121 15.645282,6.3357534 0 0 0 11.78984,-2.17554 c 0.58553,0.0609 1.17174,0.12625 1.75681,0.18524 3.60714,1.99146 7.2177,2.93427 14.05259,3.6725 4.44166,0.47973 4.90031,1.21659 3.01701,4.84627 -1.16828,2.25159 -1.57011,4.13851 -1.57011,7.38282 0,0.19805 0.009,0.39331 0.0149,0.58971 a 23.528474,6.8349416 22.149692 0 0 -2.70148,-1.37222 23.528474,6.8349416 22.149692 0 0 -27.75794,-5.5683 23.528474,6.8349416 22.149692 0 0 -0.0392,0.0302 c -8.07817,-3.80714 -15.72097,-7.60146 -22.65181,-11.09879 a 2.9191398,3.2914501 0 0 0 -1.12764,-0.3043 2.9191398,3.2914501 0 0 0 -1.25647,6.31299 c 9.32025,4.70303 19.91444,9.96843 31.24915,15.10018 a 23.528474,6.8349416 22.149692 0 0 7.70495,4.33027 23.528474,6.8349416 22.149692 0 0 15.87848,5.56829 c 3.53876,1.35594 7.10644,2.66756 10.70141,3.90311 1.48141,1.21319 3.12851,2.43345 4.96797,3.6725 6.55722,4.4169 11.79197,6.60202 18.7312,7.81943 7.55709,1.32581 13.9913,1.11044 21.61378,-0.89214 7.02639,0.69204 13.93727,0.82184 20.62616,0.24761 0.52719,0.69733 0.74382,0.9801 1.30127,1.72001 5.30211,7.03769 15.34523,12.42226 26.29052,14.09842 2.32576,0.35616 7.98798,0.66525 12.5833,0.68611 12.2356,0.0556 20.51812,-1.46862 30.21299,-5.55885 5.02749,-2.12107 14.94301,-8.48443 17.75664,-11.39554 4.03922,-4.17916 5.38229,-4.27215 11.36231,-0.79574 1.62787,0.94634 5.62067,2.84353 8.87365,4.21875 11.63279,4.91782 24.37076,6.26942 32.09863,3.40411 3.61377,-1.3399 10.80128,-6.02119 14.2953,-9.30884 5.43266,-5.11182 9.53297,-6.83637 19.87377,-8.3619 16.26205,-2.39903 26.11345,-8.83861 29.42515,-19.23576 2.18059,-6.84612 1.08503,-21.00664 -2.17875,-28.13634 -2.06674,-4.5148 -5.38261,-8.2619 -10.12825,-11.44468 -2.52673,-1.69463 -4.59458,-3.41868 -4.59458,-3.83317 0,-0.41449 1.7941,-2.23788 3.98595,-4.05053 4.73063,-3.91229 10.57967,-11.25138 12.23979,-15.35724 2.72057,-6.72863 1.93868,-14.85385 -1.99765,-20.77809 -4.44268,-6.68626 -13.6675,-13.27168 -23.96055,-17.33619 -3.59609,-1.42002 -8.0485,-1.90824 -12.27712,-2.09615 -0.39156,-0.0174 -0.7847,-0.0284 -1.17805,-0.0321 z m -280.36119,72.09677 a 15.645282,6.3357534 0 0 0 12.51609,2.5441 15.645282,6.3357534 0 0 0 2.89939,-0.1153 c 0.10466,1.59301 0.34584,3.07941 0.74305,4.45314 a 15.645282,6.3357534 0 0 0 -4.78128,-0.30621 15.645282,6.3357534 0 0 0 -9.05102,1.17944 c -5.46353,-0.86214 -10.85621,-1.85458 -16.10999,-3.03365 4.69517,-1.86325 9.28478,-3.40991 13.78376,-4.72152 z"
+           id="path6520" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.95588286,0,0,0.96774195,-20.498528,-146.38048)"
+       id="g6897">
+      <g
+         transform="matrix(0.77571995,0,0,0.61461738,201.16243,576.50039)"
+         id="g6478">
+        <ellipse
+           ry="216.23763"
+           rx="350"
+           id="path2990"
+           style="fill:url(#radialGradient4062);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           cx="190"
+           cy="190" />
+        <path
+           id="path3069"
+           d="m 186.36132,-26.158212 a 350,216.23763 0 0 0 -63.45117,4.121094 c 29.70508,94.809913 65.73925,208.468768 67.01562,209.466798 1.26055,0.98569 -1.15891,-114.861988 -3.56445,-213.587892 z m 75.45703,4.591797 C 229.69816,72.147943 191.00017,186.32189 191.45507,187.8828 c 0.4877,1.67354 80.42059,-111.458389 139.48828,-195.6640585 a 350,216.23763 0 0 0 -69.125,-13.7851565 z M 42.439451,-5.8086023 A 350,216.23763 0 0 0 -32.843752,23.48046 C 50.116762,85.971478 186.48962,187.87804 188.41796,187.96288 190.16434,188.03972 105.73706,76.930191 42.439451,-5.8086023 Z M 422.64648,28.742179 C 338.79678,86.325618 193.05036,187.30039 192.3789,189.13671 191.60556,191.25172 417.50651,115.37151 498.13477,87.839835 A 350,216.23763 0 0 0 422.64648,28.742179 Z m -544.56055,63.673828 a 350,216.23763 0 0 0 -37.42578,89.396483 c 47.89672,1.82784 344.72871,8.83545 346.83984,7.44141 1.89766,-1.25309 -228.722605,-72.39336 -309.41406,-96.837893 z m 318.08008,98.136713 c -2.32044,0.0248 -3.61362,0.0785 -3.74609,0.16602 l -0.002,0 c -1.89808,1.25342 228.84843,72.44107 309.48829,96.87109 a 350,216.23763 0 0 0 37.43359,-89.45507 c -44.71962,-1.7097 -308.50035,-7.95322 -343.17383,-7.58204 z m -8.79688,0.2461 c -7.02619,0.60201 -226.343215,74.27744 -305.54492,101.32226 a 350,216.23763 0 0 0 75.43946,59.08985 C 41.086554,293.65538 186.86748,192.6746 187.53906,190.83788 c 0.0137,-0.0375 -0.0431,-0.0499 -0.16993,-0.0391 z m 4.1836,1.23828 c -1.74669,-0.0769 82.69222,111.04819 145.98242,193.77734 a 350,216.23763 0 0 0 75.28906,-29.28515 C 329.8649,294.03908 193.48115,192.12192 191.55273,192.0371 Z m -3.0625,0.0176 c -2.35308,1.04996 -81.0913,112.49975 -139.464841,195.71679 a 350,216.23763 0 0 0 69.101561,13.78711 c 32.13904,-93.7221 70.86896,-207.93307 70.41406,-209.49414 -0.006,-0.02 -0.0224,-0.0224 -0.0508,-0.01 z m 1.58008,0.46289 c -0.0346,-0.026 -0.0764,0.0643 -0.10547,0.20703 -1.03586,5.12941 1.3119,117.36839 3.64843,213.43359 a 350,216.23763 0 0 0 63.51563,-4.12695 C 227.40841,307.21288 191.34685,193.51574 190.07031,192.51757 Z"
+           style="fill:url(#radialGradient4064);fill-opacity:1" />
+      </g>
+      <g
+         id="g6886"
+         transform="translate(-57.786515,595.02455)">
+        <path
+           id="path5298-8"
+           d="m 576.27471,42.323823 -28.17845,36.383359 -3.05702,6.184699 27.67228,-35.656167 3.56319,-6.911891 z m -69.09115,6.184699 -2.20821,6.731865 9.16883,81.862573 16.63563,-1.27437 2.71661,-5.09272 -16.97604,1.45439 -9.33682,-83.681738 z m -49.57093,20.558021 -8.14761,37.655367 -0.6786,5.4575 7.80721,-36.745781 14.26164,34.926611 1.187,-5.6399 -14.42964,-35.653797 z m -40.06389,0.909585 -46.0033,4.183137 1.01679,18.736485 1.01901,5.82228 -1.187,-18.374065 44.98651,-4.000758 0.16799,-6.367079 z m -84.8802,8.731054 1.019,4.003117 0.5106,4.72795 0,3.275919 -0.17019,2.911147 -0.51061,2.546361 -0.8488,2.363975 -0.8488,2.001559 -1.187,1.81917 -1.3594,1.63677 -1.52742,1.27437 -1.6976,1.09197 -1.69759,0.90959 -1.86781,0.5448 -2.0358,0.5448 2.206,5.27748 1.8678,-0.36477 1.86781,-0.7272 1.86781,-0.7272 1.5274,-1.09197 1.5274,-1.27436 1.3572,-1.63678 1.019,-1.81917 1.01901,-2.00156 0.6786,-2.18158 0.5106,-2.548727 0.16799,-2.908774 0,-3.09354 -0.50839,-4.730309 -1.01901,-3.820725 -1.8678,-6.002313 z m -24.78325,1.274364 -2.03801,0.180026 -22.74745,2.001555 0.6786,22.921993 3.0548,5.45751 -0.6786,-22.557209 22.23905,-2.001562 1.86781,0 1.86781,-0.182393 1.5274,0.182393 1.187,0.182386 1.18921,0.362419 1.01899,0.547166 0.8488,0.727198 0.67861,0.909585 0.5084,1.274364 -2.206,-5.822287 -0.50841,-1.274364 -0.6808,-0.909578 -0.8488,-0.727199 -1.01679,-0.544805 -1.18921,-0.547172 -1.52741,-0.180026 -1.5274,0 -1.6976,0 z m -66.71716,1.999202 1.1892,2.183942 0.8488,2.363974 0.5084,2.548728 0.3404,2.363975 0.17021,2.546354 -0.51061,4.912702 -1.019,4.000757 -1.6976,3.09353 -2.37621,2.54636 -3.39521,1.81917 -4.07381,1.27437 4.07381,5.27511 4.07381,-1.27437 3.39521,-1.81916 2.37841,-2.36397 1.69761,-3.09354 1.01678,-4.00075 0.34042,-4.730308 -0.17021,-2.363975 -0.33819,-2.548728 -0.51062,-2.363968 -0.8488,-2.363974 -1.18699,-2.183949 -3.90581,-5.82228 z m -20.54145,5.82228 -22.57725,2.001556 0,18.554096 5.09281,5.27748 -0.17021,-18.191682 22.06886,-2.001556 2.71661,0 2.038,0.362419 1.3572,1.091971 -4.41421,-5.81992 -1.3572,-0.909591 -2.03801,-0.364773 -2.7166,0 z m 317.45194,3.093527 -8.14762,10.005435 -2.5464,5.63752 7.80942,-9.823035 30.21648,36.200985 20.71164,-1.81917 4.07381,-5.09273 -21.04985,1.81917 -31.06748,-36.928175 z m -121.71688,11.642215 -42.95071,3.82072 1.52961,23.64918 0.8488,4.91035 -1.3594,-23.10203 41.9317,-3.63833 0,-5.63989 z m -172.1366,13.64376 1.18699,2.00155 1.01901,2.18158 0.67859,2.54637 0.51062,2.91115 0.33819,3.63833 -0.33819,5.09509 -0.8488,4.54792 -1.35942,3.81836 -2.0358,3.27593 -2.3784,2.72875 -2.71441,2.36397 -3.05701,1.81917 -3.225,1.45675 -3.56542,1.08961 -3.7334,0.90959 -3.73561,0.54716 -3.73561,0.36242 -35.30928,3.09354 5.43321,4.18313 34.46048,-2.90877 3.73562,-0.36479 3.56319,-0.72719 3.73562,-0.7272 3.39521,-1.09197 3.225,-1.45675 3.05701,-1.81917 2.54641,-2.18158 2.37621,-2.72875 1.8678,-3.27592 1.5274,-3.63834 0.6786,-4.54793 0.3404,-5.09272 -0.3404,-3.27355 -0.50839,-3.09354 -0.68082,-2.54637 -1.01679,-2.00155 -1.1892,-1.81916 -3.90361,-5.27512 z m 61.62214,0 -21.56045,2.00155 1.019,33.65462 -16.46543,1.272 3.56319,4.36553 15.95926,-1.27199 -1.01902,-32.92743 21.04985,-1.81916 3.73562,0.18238 2.7144,1.09198 1.8678,2.36398 -2.3762,-5.09273 -1.86781,-2.36634 -2.8846,-1.272 -3.73561,-0.18239 z m 25.12366,0.18239 0.68081,2.54636 0.50839,3.27356 0.5084,3.45594 0.51061,4.00312 0.6786,4.54792 0.8488,4.9127 0.6786,2.90877 0.8488,2.72876 1.05658,2.5748 -16.67321,1.42832 -0.8488,-1.45439 2.206,4.54792 0.8488,1.45439 16.63564,-1.45439 -1.8656,-4.54792 -0.15251,0.0141 -0.18789,-0.56138 -0.6786,-2.91114 -0.84882,-4.91034 -0.67859,-4.36553 -0.51061,-3.82073 -0.3382,-3.63833 -0.5106,-2.91114 -0.6786,-2.72876 -2.038,-5.09273 z m 146.33435,0.5448 -30.38668,2.72875 -4.0738,18.73649 -16.80805,1.45675 -0.16799,4.73031 16.29523,-1.27436 3.90581,-18.55646 29.87828,-2.54636 7.29881,17.64687 17.14625,-1.45675 2.20599,-4.91034 -17.65463,1.4544 -7.63922,-18.0093 z m -255.31921,2.72875 -23.93665,2.18395 0,23.28441 5.09281,4.54792 0,-22.922 23.25806,-2.00155 1.18699,0 1.01901,0 1.1892,0.18239 1.0168,0.1824 1.01901,0.54479 0.8488,0.72957 1.019,0.90958 -4.41421,-5.09509 -0.84881,-0.90959 -1.019,-0.72719 -1.01679,-0.36478 -1.01901,-0.36242 -1.1892,-0.18239 -1.01901,0 -1.187,0 z m 202.35308,20.37564 -65.01735,5.4575 1.35719,4.54793 63.49216,-5.27749 0.168,-4.72794 z"
+           style="fill:#006100;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           id="path5384"
+           d="m 576.27497,42.323265 -20.87937,1.819013 -27.67171,37.838919 -4.07477,-34.926793 -16.46651,1.45522 9.33767,83.681506 16.97526,-1.45522 -3.56443,-29.83526 8.14794,-10.005422 31.06708,36.930262 21.05002,-1.82072 -42.10004,-47.297799 28.17886,-36.383706 z m -111.70115,10.188185 -17.31654,1.455213 -21.21908,85.864317 16.80621,-1.4552 4.07317,-18.7367 30.38768,-2.72939 7.63919,18.0091 17.65465,-1.45521 -38.02528,-80.95213 z m -48.21298,4.365639 -61.79288,5.639799 4.75416,82.953902 65.0176,-5.45704 -1.18814,-14.19003 -48.2114,4.18459 -1.52783,-23.65061 42.94849,-3.81907 -1.0175,-13.462421 -42.77943,3.820786 -1.0191,-18.73841 46.00417,-4.182886 -1.18814,-13.09861 z m -103.89291,9.641631 -3.05568,0.182754 -3.05567,0.181046 -39.55472,3.456986 2.03818,82.771144 16.46651,-1.27245 -1.01909,-33.65434 21.56037,-2.00177 3.73347,0.18105 2.88663,1.27416 1.86753,2.36557 0.84844,1.81902 0.50875,2.18282 0.51034,2.54662 0.33969,2.91042 0.50875,2.72938 0.3397,2.72766 0.33969,2.91214 0.33971,2.72766 0.50875,2.54662 0.50874,2.36558 0.67939,1.81901 0.84845,1.45522 16.97684,-1.45522 -1.35878,-2.54662 -0.84844,-2.72937 -0.67939,-2.91043 -0.84845,-4.91219 -0.67939,-4.54669 -0.50875,-4.00353 -0.50875,-3.45527 -0.51034,-3.27423 -0.6778,-2.54833 -0.85004,-2.36387 -1.18813,-1.81901 -1.35719,-1.45522 -1.86754,-1.27416 -2.37787,-0.7276 -2.88503,-0.36381 2.03658,-0.54485 1.86753,-0.54656 1.69848,-0.91036 1.69689,-1.09141 1.52784,-1.27246 1.35878,-1.63796 1.18815,-1.81901 0.84844,-2.000066 0.84845,-2.365573 0.51034,-2.54662 0.16905,-2.910419 0,-3.274226 -0.50875,-4.731153 -1.01909,-4.001832 -1.52784,-3.274226 -2.03658,-2.72938 -2.20723,-2.000059 -2.54693,-1.637967 -2.71598,-1.272452 -2.88662,-0.727607 -3.05567,-0.363806 -3.22472,-0.182754 z m 145.14451,2.546619 14.42992,35.656101 -22.57786,2.00178 8.14794,-37.657881 z m -232.74156,5.457046 -4.58351,0.18276 -37.85623,3.456973 -0.50875,82.407352 35.3093,-3.09148 3.73507,-0.3638 3.73507,-0.54656 3.73506,-0.91036 3.56442,-1.09141 3.22632,-1.45521 3.05568,-1.81901 2.71597,-2.36386 2.37629,-2.72939 2.03658,-3.27423 1.35879,-3.82078 0.84844,-4.54839 0.33969,-5.09324 -0.33969,-3.63803 -0.50875,-2.91042 -0.6794,-2.54662 -1.01908,-2.18282 -1.18814,-2.00177 -1.52785,-1.45521 -1.52783,-1.27416 -1.86753,-0.90866 -1.86753,-0.54656 -2.03659,-0.3638 -2.20722,0 -2.03659,0 4.07476,-1.27246 3.39378,-1.81902 2.37787,-2.54832 1.69688,-3.09147 1.0191,-4.001837 0.50875,-4.912185 -0.16905,-2.546626 -0.3397,-2.365573 -0.51035,-2.54662 -0.84844,-2.365573 -1.18814,-2.182819 -1.69688,-2.00006 -2.03818,-1.819019 -2.37628,-1.455206 -2.88503,-1.093121 -3.39537,-0.908646 -3.90571,-0.18276 z m 83.01353,5.458752 1.69689,0 1.52784,0 1.52783,0.181047 1.18974,0.54656 1.0175,0.544853 0.84844,0.7276 0.67939,0.91036 0.51034,1.272459 0.3381,1.455206 0.3397,1.820734 0.17064,2.000059 0,2.001767 0,1.819019 -0.17064,1.636253 -0.3397,1.455213 -0.6778,1.45692 -0.67939,1.27246 -1.01908,0.91036 -1.35719,1.091403 -1.52784,0.72761 -1.86754,0.54485 -2.37628,0.54656 -2.54692,0.18105 -21.38973,2.00177 -0.67939,-22.9213 22.74851,-2.001766 2.03658,-0.181047 z m -87.25735,7.822612 2.71597,0 2.03819,0.363807 1.35719,0.908653 1.01909,1.455213 0.50875,2.182819 0.17064,2.910419 -0.17064,2.729373 -0.67781,2.546617 -1.18973,2.18283 -1.69688,1.63796 -2.37628,1.27246 -3.22633,0.54656 -21.05002,1.81901 0,-18.555655 22.57786,-2.000066 z m 1.35878,31.835331 1.18815,0 1.01909,0 1.18814,0.18104 1.01749,0.3638 1.01909,0.3638 1.01909,0.72761 0.84845,0.91037 0.84844,1.27245 0.67939,1.27416 0.3397,1.81902 0.33969,2.00177 0.16906,2.54662 -0.3397,3.63803 -0.84844,3.09318 -1.35719,2.18282 -2.20724,1.45521 -2.88662,1.27246 -3.56442,0.54655 -22.40881,1.81901 0,-23.28509 23.93664,-2.18281 z"
+           style="fill:#45df45;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <g
+           transform="matrix(0.98403268,-0.17798786,0.17798786,0.98403268,-41.616162,92.845298)"
+           id="g6878">
+          <g
+             id="g6868"
+             style="fill:#006100;fill-opacity:1">
+            <path
+               id="path6848"
+               d="m 644.55222,132.24416 -6.80074,0 q -0.2267,-9.84374 -1.24681,-13.67188 -1.0201,-3.90624 -8.38757,-21.796863 -4.30714,-10.46876 -5.89397,-16.17188 -1.47349,-5.78126 -1.47349,-11.17188 0,-14.53124 19.94883,-14.53124 10.42779,0 15.30165,3.67186 4.9872,3.59376 4.9872,11.32814 0,9.92186 -7.02742,27.1875 -6.23401,15.234363 -7.82084,21.015623 -1.4735,5.70312 -1.58684,14.14062 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Bright;-inkscape-font-specification:'Bright Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#006100;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <path
+               id="path6839"
+               d="m 640.98567,138.88478 q 6.17188,0 10,3.82814 3.90625,3.75 3.90625,9.84374 0,5.78126 -3.90625,9.45312 -3.90625,3.59376 -10.07812,3.59376 -6.875,0 -10.78125,-4.29688 -3.28125,-3.67188 -3.28125,-9.14062 0,-6.01562 3.82812,-9.60938 3.90625,-3.67188 10.3125,-3.67188 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Bright;-inkscape-font-specification:'Bright Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#006100;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          </g>
+          <g
+             id="g6872"
+             style="fill:#45df45;fill-opacity:1"
+             transform="translate(1.2885984,-4.1677712)">
+            <path
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Bright;-inkscape-font-specification:'Bright Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#45df45;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 644.55222,132.24416 -6.80074,0 q -0.2267,-9.84374 -1.24681,-13.67188 -1.0201,-3.90624 -8.38757,-21.796863 -4.30714,-10.46876 -5.89397,-16.17188 -1.47349,-5.78126 -1.47349,-11.17188 0,-14.53124 19.94883,-14.53124 10.42779,0 15.30165,3.67186 4.9872,3.59376 4.9872,11.32814 0,9.92186 -7.02742,27.1875 -6.23401,15.234363 -7.82084,21.015623 -1.4735,5.70312 -1.58684,14.14062 z"
+               id="path6874" />
+            <path
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Bright;-inkscape-font-specification:'Bright Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#45df45;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 640.98567,138.88478 q 6.17188,0 10,3.82814 3.90625,3.75 3.90625,9.84374 0,5.78126 -3.90625,9.45312 -3.90625,3.59376 -10.07812,3.59376 -6.875,0 -10.78125,-4.29688 -3.28125,-3.67188 -3.28125,-9.14062 0,-6.01562 3.82812,-9.60938 3.90625,-3.67188 10.3125,-3.67188 z"
+               id="path6876" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
